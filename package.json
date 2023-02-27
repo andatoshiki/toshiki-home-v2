@@ -1,0 +1,28 @@
+{
+  "name": "toshiki-home-v2",
+  "version": "0.0.1",
+  "description": "🪗 V2 of Toshiki's lovely homepage with a complete rebuild and UI/UX design on top of NuxtJS including a decent yet smooth page transitional effect in addition with customizable showcase pages of interests!",
+  "author": "Anda Toshiki <hello@toshiki.dev>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andatoshiki/toshiki-home-v2.git"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "lint": "prettier --write ."
+  },
+  "devDependencies": {
+    "@iconify/json": "2.1.152",
+    "nuxt": "3.0.0",
+    "nuxt-windicss": "2.6.0",
+    "prettier": "2.8.4",
+    "unplugin-icons": "0.14.15"
+  },
+  "dependencies": {
+    "@vueuse/core": "9.6.0"
+  },
+  "version": "0.0.1"
+}
