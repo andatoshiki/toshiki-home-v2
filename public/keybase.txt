@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/toshikidev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.toshiki.dev
+  * I am toshikidev (https://keybase.io/toshikidev) on keybase.
+  * I have a public key with fingerprint 5D0D AAA6 4C95 2E98 F323  989B CEB7 8DB0 14CD 2E74
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015c96ca16dafaef95c6c93a2ba29d28f0b27d8bdd30751dafccc4db3ed1133ff70a",
+      "fingerprint": "5d0daaa64c952e98f323989bceb78db014cd2e74",
+      "host": "keybase.io",
+      "key_id": "ceb78db014cd2e74",
+      "kid": "01015c96ca16dafaef95c6c93a2ba29d28f0b27d8bdd30751dafccc4db3ed1133ff70a",
+      "uid": "b856b54916f156731935062c7e55a919",
+      "username": "toshikidev"
+    },
+    "service": {
+      "hostname": "www.toshiki.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1679884978,
+  "expire_in": 157680000,
+  "prev": "3d3cffbab5ef99bcf9573c54ed8f1051d35805f33335cb84b75c5f79ca1f5c4e",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSFRBGMfX1KjVaiO20qJoMOmybec2Z85ZulLRixGFkFGwnLkcPbnu
+WXfPuq5iZUWXhyTpApFhD4qWXaAeIrpYq2RkkUh2hdCgl4IyiiC60Byxtx6bl2Fm
+ft9//t+fr3dKtseblduMFH/pge6s/nstSQ9dMOFqPcA2TYNQPahkYxuLUJZwwpUW
+BSEgiIIIia4SQ1SpYRrM1CFRiS4bEjYknUqaKWAJUQ1TKgsIihwihCgUy4yKoiyb
+JhIMEACmFS1n8VjcijpcFlKBGoahKkSHEtM1U5ZkXdMxYRhpFAuiQqjEkMILK+yE
+W8HNYSPBgpbN7/ghPGbvH/x/9p0ck8MaVDFUdFE1RagiWdRlKKgSQQxCQxd1F0yw
+eNSoYpx27ESFxX2wGtAQAPy+xiLMjdbtZZxJpVLBcS7oggEQi9uOTewIf6xwnFgi
+5BY76dgYzXB4XCeMrSjlYfKKGhZPWHYUhEROEsdyhUUV6Zqm6EgLAFYbs+IsbLkE
+RKom8OX+w78LAZnKxDSxgSHPhifPA0IygQqjmikKPBAZagI0Zb4gwZqCESTQRDpP
+1IREYcDtrDpqg5DMbRrlXDJhlUcNJxlnoCFzd2eOJ8vrmZg7wR0yj3ey7+/oZQ5P
+8nQf9r8IvIssWZpMVbfMvLj1/fx9xXkznF8lgQ3HDk7f1P650Ne5+uy8o4M51s0v
+2Zczs1qnDpQZD0uPfzh+obFr6u7hdVXtbee20dm7TmzZ2vNs1fynzbcXHmgqGzlz
+ehhO3HirpMe/J3dO5tNLfKX2yPq1s/rX/NwW6Xj0saoncHKXb6hj98jvhh/bf39v
+HLz+/OtoGyoIhUqmRbuTV749uLS3bsW8U48P+d++GWqd3rXTs9I7t6x20YyRH4Bd
+vPOUdBac7jiRPvQs75q5o2+Jv3BzcH2d1pifGs15PdeuXhYJztQHim70SvnLz/cN
+LdZ+Bfe/Qk8+FbX5TmXnp0vvB5pa+lHxH9+VPYo=
+=OKA8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/toshikidev
+
+==================================================================
